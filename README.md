@@ -3,7 +3,7 @@
 This project builds a predictive model to classify the return risk of e-commerce orders using user, product, and transaction data.
 
 ## Objective:
-To help e-commerce businesses reduce returns by predicting which orders are likely to be returned.
+To help e-commerce businesses reduce returns by predicting which orders are likely to be returned. 
 
 ##  Dataset:
 - Synthetic dataset with 10,000 records
