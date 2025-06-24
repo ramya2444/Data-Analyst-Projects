@@ -9,7 +9,7 @@ To help e-commerce businesses reduce returns by predicting which orders are like
 - Synthetic dataset with 10,000 records
 - Fields: order date, return date, product price, category, customer age/gender/location, payment & shipping method
 
-## ⚙Technologies Used :
+## Technologies Used :
 - Python (Pandas, Seaborn, Scikit-learn, XGBoost)
 - SQL via pandasql
 - Power BI for dashboard visualization
